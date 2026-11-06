@@ -1,0 +1,20 @@
+{
+  "name": "kibitz-api",
+  "version": "1.0.0",
+  "description": "\"backup server for saving chess games for kibitz\"",
+  "homepage": "https://github.com/mdmmal/kibitz-api#readme",
+  "bugs": {
+    "url": "https://github.com/mdmmal/kibitz-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmmal/kibitz-api.git"
+  },
+  "license": "ISC",
+  "author": "Jamal Muhammad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
